@@ -213,7 +213,7 @@ print("\nClassification Report of Random Forest Classifier: \n", classification_
 
 """# Displaying Confusion Matrix for Random Forest Classifier Model"""
 
-cm = confusion_matrix(Yvalid, y_pre)
+  cm = confusion_matrix(Yvalid, y_pre)
   plt.figure(figsize=(12, 8))
   sns.heatmap(cm, annot=True, fmt='d', cmap='Greens')
   # Here fmt = 'd' helps to convert the output data to integers.
