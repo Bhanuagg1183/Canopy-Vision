@@ -1,7 +1,19 @@
 # Canopy Vision
 
 ### Technologies:   
-Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
+Python
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
 
 
 # Objective
@@ -33,13 +45,13 @@ Accurately identifying forest cover types is a critical task for sustainable for
 
 The Forest Cover Type Prediction System aims to leverage environmental features such as elevation, slope, soil type, and geographic attributes to classify land areas into distinct forest cover categories. This predictive capability can assist forestry departments, ecologists, and land planners in:
 
-Efficiently mapping vegetation over large regions.
+- Efficiently mapping vegetation over large regions.
 
-Monitoring ecological balance and changes in forest distribution.
+- Monitoring ecological balance and changes in forest distribution.
 
-Supporting conservation efforts by identifying vulnerable or changing habitats.
+- Supporting conservation efforts by identifying vulnerable or changing habitats.
 
-Enabling data-driven decision-making for land use and natural resource management.
+- Enabling data-driven decision-making for land use and natural resource management.
 
 The challenge lies in handling the complex relationships among multiple environmental variables while ensuring high accuracy across all forest cover classes. Therefore, building a robust machine learning model that generalizes well to unseen data is the primary objective of this system.
 
@@ -57,11 +69,11 @@ The trained models are tested on the hold-out test dataset.
 
 Evaluation metrics used include:
 
-Accuracy Score: To measure the percentage of correctly predicted samples.
+- Accuracy Score: To measure the percentage of correctly predicted samples.
 
-Confusion Matrix: To analyze misclassifications across forest cover categories.
+- Confusion Matrix: To analyze misclassifications across forest cover categories.
 
-Classification Report: Precision, recall, and F1-score for each cover type.
+- Classification Report: Precision, recall, and F1-score for each cover type.
 
 Results show that while baseline models like Logistic Regression provide moderate accuracy, ensemble models significantly improve prediction performance, achieving  ~ 85–90% accuracy.
 
