@@ -1,6 +1,7 @@
 # Canopy Vision
 
-Technologies: Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
+### Technologies:   
+Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
 
 
 # Objective
@@ -11,19 +12,19 @@ This predictive system can assist forest management authorities, conservationist
 
 The model classifies forest cover into seven types:
 
-Spruce/Fir
+- Spruce/Fir
 
-Lodgepole Pine
+- Lodgepole Pine
 
-Ponderosa Pine
+- Ponderosa Pine
 
-Cottonwood/Willow
+- Cottonwood/Willow
 
-Aspen
+- Aspen
 
-Douglas-fir
+- Douglas-fir
 
-Krummholz
+- Krummholz
 
 
 # Problem Statement
@@ -64,19 +65,19 @@ Classification Report: Precision, recall, and F1-score for each cover type.
 
 Results show that while baseline models like Logistic Regression provide moderate accuracy, ensemble models significantly improve prediction performance, achieving  ~ 85–90% accuracy.
 
-Logistic Regression:   ~ 65–70% accuracy
+- Logistic Regression:  ~ 65–70% accuracy 
 
-Random Forest Classifier:   ~ 85–90% accuracy
+- Random Forest Classifier:   ~ 85–90% accuracy
 
-Linear Discriminant Analysis:   ~ 60–65% accuracy
+- Linear Discriminant Analysis:   ~ 60–65% accuracy
 
-K-Neighbors Classifier:   ~ 75–80% accuracy
+- K-Neighbors Classifier:   ~ 75–80% accuracy
 
-Decision Tree Classifier:   ~ 75–80% accuracy
+- Decision Tree Classifier:   ~ 75–80% accuracy
 
-Gaussian NB:   ~ 55–60% accuracy
+- Gaussian NB:   ~ 55–60% accuracy
 
-SVM:   ~ 15–20% accuracy
+- SVM:   ~ 15–20% accuracy
 
 
 # Feature Importance
