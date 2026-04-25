@@ -1,19 +1,20 @@
 # Canopy Vision
 
 ### Technologies:   
-Python
 
-Scikit-learn
+- Python
 
-Pandas
+- Scikit-learn
 
-NumPy
+- Pandas
 
-Matplotlib
+- NumPy
 
-Seaborn
+- Matplotlib
 
-Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
+- Seaborn
+
+- Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
 
 
 # Objective
