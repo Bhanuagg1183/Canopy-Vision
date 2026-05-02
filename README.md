@@ -128,12 +128,12 @@ Using SMOTE or class-weight balancing to address class imbalance.
 
 # Conclusion
 
-The Forest Cover Type Prediction project demonstrates the effectiveness of machine learning in environmental applications.
+- The Forest Cover Type Prediction project demonstrates the effectiveness of machine learning in environmental applications.
 
-Random Forest Classifier achieved the best performance (~90% accuracy).
+- Random Forest Classifier achieved the best performance (~90% accuracy).
 
-Logistic Regression provided a baseline, while ensemble models achieved significantly higher accuracy.
+- Logistic Regression provided a baseline, while ensemble models achieved significantly higher accuracy.
 
-Elevation, soil types, and hydrological features emerged as the most important predictors. 
+- Elevation, soil types, and hydrological features emerged as the most important predictors. 
 
-This project highlights the potential for data-driven ecological management, with future applications in conservation planning, wildfire risk analysis, and biodiversity monitoring.
+- This project highlights the potential for data-driven ecological management, with future applications in conservation planning, wildfire risk analysis, and biodiversity monitoring.
