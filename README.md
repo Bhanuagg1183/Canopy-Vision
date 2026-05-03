@@ -113,17 +113,17 @@ Ensemble models outperform linear models by capturing complex, non-linear relati
 
 # Future Scope
 
-Potential improvements include:
+- - Potential improvements include:
 
-Applying Deep Learning (Neural Networks) for complex feature interactions.
+- - Applying Deep Learning (Neural Networks) for complex feature interactions.
 
-Performing Hyperparameter Optimization (GridSearchCV, RandomizedSearchCV).
+- - Performing Hyperparameter Optimization (GridSearchCV, RandomizedSearchCV).
 
-Incorporating spatial/geographic data (e.g., satellite imagery).
+- - Incorporating spatial/geographic data (e.g., satellite imagery).
 
-Deploying the model as an API for forest management systems.
+- - Deploying the model as an API for forest management systems.
 
-Using SMOTE or class-weight balancing to address class imbalance.
+- - Using SMOTE or class-weight balancing to address class imbalance.
 
 
 # Conclusion
