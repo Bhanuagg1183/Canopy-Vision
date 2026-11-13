@@ -2,19 +2,12 @@
 <!-- This is Forest Cover Type Prediction Model made in May'25 - Aug'25. -->
 
 ### Technologies:   
-
 - Python
-
 - Scikit-learn
-
 - Pandas
-
 - NumPy
-
 - Matplotlib
-
 - Seaborn
-
 - Machine Learning Algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbors, Decision Trees, Naive Bayes, Support Vector Machines, Random Forests)
 
 
