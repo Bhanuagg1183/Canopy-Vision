@@ -1,5 +1,5 @@
 # Canopy Vision
-<!-- This is Forest Cover Type Prediction Model made in May'25 - Aug'25. -->
+<!-- This is Forest Cover Type Prediction Model created in May'25 - Aug'25. -->
 
 ### Technologies:   
 - Python
